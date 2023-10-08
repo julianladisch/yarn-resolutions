@@ -5,6 +5,6 @@
     "raml2html": "^7.1.0"
   },
   "resolutions": {
-    "**/marked": "^2.0.0"
+    "**/marked": ">=4.0.10"
   }
 }
