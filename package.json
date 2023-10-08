@@ -1,0 +1,10 @@
+{
+  "name": "yarn-resolutions",
+  "version": "1.0.0",
+  "dependencies": {
+    "raml2html": "^7.1.0"
+  },
+  "resolutions": {
+    "**/marked": "^2.0.0"
+  }
+}
